@@ -4,3 +4,8 @@
 
 ** patches
 - [[https://tools.suckless.org/dmenu/patches/dracula/][Dracula]]
+  This is my Default theme
+- [[https://tools.suckless.org/dmenu/patches/numbers/][Numbers]]
+  This displays the number of matches for your dmenu search
+- [[https://tools.suckless.org/dmenu/patches/highlight/][Highlight]]
+  Highlights the individual charactors of matched text
